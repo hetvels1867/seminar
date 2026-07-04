@@ -1,2 +1,4 @@
 # seminar
-yo
+yo hi hello 
+myself het
+
